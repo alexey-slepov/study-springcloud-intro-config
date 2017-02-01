@@ -1,1 +1,1 @@
-# study-springcloud-intro-config
+Spring Cloud Study Project Config Repo
