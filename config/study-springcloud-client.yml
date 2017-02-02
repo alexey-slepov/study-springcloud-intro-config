@@ -1,3 +1,4 @@
 ---
- lucky-word: rubashka
- preamble: The lucky owrd is
+luckyword:
+  lucky-word: rubashka
+  preamble: The lucky owrd is
